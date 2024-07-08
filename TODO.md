@@ -1,0 +1,3 @@
+- rework x,y to be integers in Planet
+- retrieve planets closer than N pixels
+- performance????
